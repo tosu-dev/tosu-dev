@@ -34,8 +34,10 @@ Other skills :
 - **Hackthons :** I did 2 Hackthons during Highschool, I had to build an application to help studying a school subject.
 - **Night of IT :** This is a big event where we have to stay in school for the night to make website or an application for a special purpose.
 - **6 qui prend :** A popular card game in Java for a school project.
-- **2d platformer :** Personnal project in Pygame.
+- **2d platformer / ninja_pygame :** Personnal project in Pygame.
 - **Beauvaisis web application :** For a school project, we had to redesign an agglomeration website, and add a food survey with a result page for the client. We also had to make a phone application
+- **CinInfo :** School project, a web application to see all the cinemas in France with an authentification system. 
+- **E-contact :** A solo school project where I had to create an application to login, get friends and show them.
 - **Loansquare :** This is my apprenticeship project, an interface to manage syndicated loan.
 
 ## Hobbies 🎊
