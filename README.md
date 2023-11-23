@@ -15,8 +15,9 @@ This Github is my workspace for personnal, school, and event projects.
 IT skills:
 - Python
 - Java
-- Web Fullstack (html/css/javascript)
+- Html/Css/Javascript
 - VueJS / Polymer
+- Flutter
 - Git
 - Jetbrains / Vscode
 
