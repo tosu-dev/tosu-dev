@@ -1,5 +1,7 @@
 # Bonjour le Monde ! 🌍
 
+My portfolio website : https://tosu-dev.github.io/tosu-portfolio/
+
 ## Presentation ✨
 Hello there, my name is Théo Constant and I'm a young passionate junior developer.
 
@@ -56,7 +58,7 @@ Phone : +33 7 69 93 12 29
 
 LinkedIn : [My LinkedIn](linkedin.com/in/théo-constant-b4682b227p)
 
-Instagram : ...
+Instagram : @tosu_dev (I did not update it for a long time)
 
 <!--
 **tosu-dev/tosu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
