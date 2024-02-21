@@ -34,6 +34,7 @@ Other skills :
 ## Projects 🌱
 - **Pygame games :** In highschool one day, I did a Tic-Tac-Toe and a Snake, it was to try Pygame.
 - **Game of life :** In Pygame, a working Game of Life representation with an editor.
+- **Descolar :** A mobile social media for my University in Flutter and Php.
 - **Hackthons :** I did 2 Hackthons during Highschool, I had to build an application to help studying a school subject.
 - **Night of IT :** This is a big event where we have to stay in school for the night to make website or an application for a special purpose.
 - **6 qui prend :** A popular card game in Java for a school project.
@@ -58,7 +59,6 @@ Phone : +33 7 69 93 12 29
 
 LinkedIn : [My LinkedIn](linkedin.com/in/théo-constant-b4682b227p)
 
-Instagram : @tosu_dev (I did not update it for a long time)
 
 <!--
 **tosu-dev/tosu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
