@@ -3,7 +3,7 @@
 My portfolio website : https://tosu-dev.github.io/tosu-portfolio/
 
 ## Presentation ✨
-Hello there, my name is Théo Constant and I'm a young passionate junior developer.
+Hello there, my name is Théo Constant and I'm a young french passionate junior developer.
 
 I started programming in middle school. My brother passed on his passion for computers to me. The very first time I code was in VBS thanks to a random youtube video I saw on how to do a little game. I just copied the code from the description and test it. Then I started to do a lot of tiny projects in Scratch, and I used to annoy my math teacher by showing him those projects.
 
