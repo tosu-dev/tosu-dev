@@ -5,11 +5,13 @@ My portfolio website : https://tosu-dev.github.io/tosu-portfolio/
 ## Presentation ✨
 Hello there, my name is Théo Constant and I'm a young passionate junior developer.
 
-I started programming in middle school. The very first time I code was in vbs thanks to a random youtube video I saw on how to do an little game. I just copied the code from the description and test it. Then I started to do a lot of tiny projects in Scratch, and I used to annoy my math teacher by showing him those projects.
+I started programming in middle school. My brother passed on his passion for computers to me. The very first time I code was in VBS thanks to a random youtube video I saw on how to do a little game. I just copied the code from the description and test it. Then I started to do a lot of tiny projects in Scratch, and I used to annoy my math teacher by showing him those projects.
 
-In highschool, I learned python and java by myself and start doing personnal projects like python game or minecraft plugins while having computer courses. I also did 2 Hackathons during highschool.
+In highschool, I learned Python and Java by myself and start doing personal projects like Python game or Minecraft plugins while having computer courses. I also did 2 Hackathons during highschool.
 
 I'm currently in a Bachelor of Computer Science in the IUT of Paris - Rives de Seine and in apprenticeship in Linedata.
+
+For 2024-2025, I'm in ESGI (Ecole Supérieur de Génie Informatique) for a virtual reality and game developpement course.
 
 This Github is my workspace for personnal, school, and event projects.
 
