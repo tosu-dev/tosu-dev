@@ -34,7 +34,7 @@ Other skills :
 
 
 ## Projects 🌱
-- **Pygame games :** In highschool one day, I did a Tic-Tac-Toe and a Snake, it was to try Pygame.
+- **Pygame games :** In highschool one day, I made a Tic-Tac-Toe and a Snake, it was to try Pygame.
 - **Game of life :** In Pygame, a working Game of Life representation with an editor.
 - **Descolar :** A mobile social media for my University in Flutter and Php.
 - **Hackthons :** I did 2 Hackthons during Highschool, I had to build an application to help studying a school subject.
