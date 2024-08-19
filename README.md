@@ -53,15 +53,6 @@ Other skills :
 - Animes and mangas
 - Penspinning and balisong flipping
 
-
-## Contact 📫
-Mail : theo.constant42@gmail.com
-
-Phone : +33 7 69 93 12 29
-
-LinkedIn : [My LinkedIn](linkedin.com/in/théo-constant-b4682b227p)
-
-
 <!--
 **tosu-dev/tosu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
