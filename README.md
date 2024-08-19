@@ -49,7 +49,7 @@ Other skills :
 ## Hobbies 🎊
 - IT and programming of course
 - Sports like volleyball and handball
-- Playing and making video games (there is a lot, so I won't make a entire list)
+- Playing and making video games (there are a lot, so I won't make a entire list)
 - Animes and mangas
 - Penspinning and balisong flipping
 
